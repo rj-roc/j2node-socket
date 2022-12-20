@@ -1,0 +1,21 @@
+{
+    "name": "medial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "serve": "nodemon index.js"
+    },
+    "author": "sunpeng",
+    "license": "ISC",
+    "dependencies": {
+        "core-js": "^3.26.1",
+        "mysql": "^2.18.1",
+        "node-require-context": "^1.0.0",
+        "nodemon": "^2.0.20",
+        "redis": "^3.1.1",
+        "webpack": "^4.6.1",
+        "webpack-cli": "^4.6.1"
+    },
+    "devDependencies": {}
+}
